@@ -1,0 +1,46 @@
+_repo: Selections-from-the-Table-Talk-of-Martin-Luther_9841
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+  translator:
+    agent_name: Bell, Henry, Captain
+    aliases:
+    - Bell, Captain Henry
+    - Bell, Henrie, Captain
+    gutenberg_agent_id: '3166'
+    url: http://www.gutenberg.org/2009/agents/3166
+covers:
+- cover_type: archival
+  image_path: 9841/9841-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Table-talk'
+- GITenberg
+title: Selections from the Table Talk of Martin Luther
+url: http://www.gutenberg.org/ebooks/9841
