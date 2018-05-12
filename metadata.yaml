@@ -1,5 +1,5 @@
 _repo: Selections-from-the-Table-Talk-of-Martin-Luther_9841
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -16,10 +16,8 @@ contributor:
     gutenberg_agent_id: '3166'
     url: http://www.gutenberg.org/2009/agents/3166
 covers:
-- cover_type: archival
-  image_path: 9841/9841-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -29,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9841#Selections-from-the-Table-Talk-of-Martin-Luther
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
